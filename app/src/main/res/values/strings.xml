@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bridge</string>
+
+    <string name="main_btn_wifiudp">WiFi-UDP</string>
+    <string name="main_btn_wifitcp">WiFi-TCP</string>
+    <string name="main_btn_bluetooth">Bluetooth</string>
+    <string name="main_btn_usbserial">USB-Serial</string>
+
+    <string name="wifiudp_edt_ip">請輸入連結IP</string>
+    <string name="wifiudp_edt_txport">請輸入傳送Port</string>
+    <string name="wifiudp_edt_rxport">請輸入接收Port</string>
+    <string name="wifiudp_btn_set">設定並啟動</string>
+
+    <string name="wifitcp_edt_http">請輸入連結HTTP</string>
+    <string name="wifitcp_btn_set">設定並啟動</string>
+</resources>
